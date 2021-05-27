@@ -5,7 +5,6 @@ const PostListItem = () => {
     return (
         <li className="PostListItem d-flex justify-content-between">
             <span className="app-list-item-label">
-                Hello
             </span>
             <div className="d-flex justify-content- center align-items-center">
                 <button

@@ -5,12 +5,12 @@
 }
 
 .app-header h1 {
-  /* width: 150px;
-  height: 150px; */
+  padding-left: 20px;
   font-size: 26px;
 }
 
 .app-header h2 {
   font-size: 1.2rem;
   color: grey;
+  padding-right: 20px;
 }
